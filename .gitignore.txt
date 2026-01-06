@@ -1,10 +1,10 @@
-# dependencies
+# Node modules
 node_modules/
 
-# env files
+# Environment files
 .env
 
-# logs
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -13,6 +13,6 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# build
-dist/
+# Build folders
 build/
+dist/
